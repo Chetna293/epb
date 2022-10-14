@@ -1,0 +1,1301 @@
+<!-- Testimonial Start -->
+            <section class="section-lg home1-testimonail-section-main">          
+               <div class="position-relative ">
+                  <div class="home1-test-section"></div>
+                  <div class="pbmit-vertical-heading">
+                     <div class="pbmit-custom-heading left-align">
+                        <h2 class="pbmit-test-title">Reviews</h2>
+                     </div>
+                  </div>
+                  <div class="container home1-testimonail-section">
+                     <div class="row">
+                        <div class="col-xl-12 col-xxl-5 text-xl-center ">
+                           <img src="images/img-03.jpg" class="border-radius-top" alt="" />
+                        </div>
+                        <div class="col-xl-12 col-xxl-7 ps-3 ps-sm-0 pt-sm-4">
+                           <div class="pbmit-heading-subheading">
+                              <h4 class="pbmit-subtitle">TESTIMONAILS </h4>
+                              <h2 class="pbmit-title">What Client's Say about</h2>
+                           </div>
+                           <div class="swiper-slider" data-autoplay="false" data-dots="false" data-arrows="true" data-columns="1" data-margin="30" data-effect="slide">
+                              <div class="swiper-wrapper">
+                                 <div class="swiper-slide">
+                                    <article class="pbmit-testimonial-style-1 pbmit-odd pbmit-col-odd">
+                                       <div class="pbminfotech-post-item">
+                                          <div class="pbminfotech-box-content">
+                                             <div class="pbminfotech-box-desc">
+                                                <blockquote class="pbminfotech-testimonial-text">
+                                                   <p>“After being forced to move twice within five years, our customers had a hard time finding us and our sales plummeted. The Trydus Co. not only revitalized our brand, but saved our nearly 100-year-old family business”</p>
+                                                </blockquote>
+                                             </div>
+                                             <div class="pbminfotech-author-wrapper">
+                                                <div class="pbminfotech-box-img">
+                                                   <div class="pbmit-featured-wrapper">
+                                                      <img src="images/testimonial/testimonial-01.jpg" class="img-fluid" alt="" />
+                                                   </div>
+                                                   <div class="pbminfotech-box-author">
+                                                      <h3 class="pbminfotech-box-title">Rhett Kinedy</h3>
+                                                      <div class="pbminfotech-testimonial-detail">Head of Marketing</div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div class="pbminfotech-box-star-ratings">
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </article>
+                                 </div>
+                                 <div class="swiper-slide">
+                                    <article class="pbmit-testimonial-style-1 pbmit-odd pbmit-col-odd">
+                                       <div class="pbminfotech-post-item">
+                                          <div class="pbminfotech-box-content">
+                                             <div class="pbminfotech-box-desc">
+                                                <blockquote class="pbminfotech-testimonial-text">
+                                                   <p>“After being forced to move twice within five years, our customers had a hard time finding us and our sales plummeted. The Trydus Co. not only revitalized our brand, but saved our nearly 100-year-old family business”</p>
+                                                </blockquote>
+                                             </div>
+                                             <div class="pbminfotech-author-wrapper">
+                                                <div class="pbminfotech-box-img">
+                                                   <div class="pbmit-featured-wrapper">
+                                                      <img src="images/testimonial/testimonial-02.jpg" class="img-fluid" alt="" />
+                                                   </div>
+                                                   <div class="pbminfotech-box-author">
+                                                      <h3 class="pbminfotech-box-title">Richard Powers</h3>
+                                                      <div class="pbminfotech-testimonial-detail">CEO Co-Founder</div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div class="pbminfotech-box-star-ratings">
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </article>
+                                 </div>
+                                 <div class="swiper-slide">
+                                    <article class="pbmit-testimonial-style-1 pbmit-odd pbmit-col-odd">
+                                       <div class="pbminfotech-post-item">
+                                          <div class="pbminfotech-box-content">
+                                             <div class="pbminfotech-box-desc">
+                                                <blockquote class="pbminfotech-testimonial-text">
+                                                   <p>“After being forced to move twice within five years, our customers had a hard time finding us and our sales plummeted. The Trydus Co. not only revitalized our brand, but saved our nearly 100-year-old family business”</p>
+                                                </blockquote>
+                                             </div>
+                                             <div class="pbminfotech-author-wrapper">
+                                                <div class="pbminfotech-box-img">
+                                                   <div class="pbmit-featured-wrapper">
+                                                      <img src="images/testimonial/testimonial-03.jpg" class="img-fluid" alt="" />
+                                                   </div>
+                                                   <div class="pbminfotech-box-author">
+                                                      <h3 class="pbminfotech-box-title">Maria Rusconi</h3>
+                                                      <div class="pbminfotech-testimonial-detail">Managing Director</div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div class="pbminfotech-box-star-ratings">
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                                <i class="pbmit-base-icon-star pbmit-active"></i>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </article>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>                  
+                  <div class="container swiper-slider home1-client-section" data-autoplay="false" data-dots="false" data-arrows="false" data-columns="6" data-margin="30" data-effect="slide">
+                     <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                           <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+                              <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                                 <h4 class="pbmit-hide">client 1</h4>
+                                 <div class="pbmit-client-hover-img">
+                                    <img src="images/client/client-logo-01.png" class="img-fluid" alt="" />
+                                 </div>
+                                 <div class="pbmit-featured-wrapper">
+                                    <img src="images/client/client-white-01.png" class="img-fluid" alt="" />
+                                 </div>
+                              </div>
+                           </article>
+                        </div>
+                        <div class="swiper-slide">
+                           <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+                              <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                                 <h4 class="pbmit-hide">client 2</h4>
+                                 <div class="pbmit-client-hover-img">
+                                    <img src="images/client/client-logo-02.png" class="img-fluid" alt="" />
+                                 </div>
+                                 <div class="pbmit-featured-wrapper">
+                                    <img src="images/client/client-white-02.png" class="img-fluid" alt="" />
+                                 </div>
+                              </div>
+                           </article>
+                        </div>
+                        <div class="swiper-slide">
+                           <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+                              <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                                 <h4 class="pbmit-hide">client 3</h4>
+                                 <div class="pbmit-client-hover-img">
+                                    <img src="images/client/client-logo-03.png" class="img-fluid" alt="" />
+                                 </div>
+                                 <div class="pbmit-featured-wrapper">
+                                    <img src="images/client/client-white-03.png" class="img-fluid" alt="" />
+                                 </div>
+                              </div>
+                           </article>
+                        </div>
+                        <div class="swiper-slide">
+                           <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+                              <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                                 <h4 class="pbmit-hide">client 4</h4>
+                                 <div class="pbmit-client-hover-img">
+                                    <img src="images/client/client-logo-04.png" class="img-fluid" alt="" />
+                                 </div>
+                                 <div class="pbmit-featured-wrapper">
+                                    <img src="images/client/client-white-04.png" class="img-fluid" alt="" />
+                                 </div>
+                              </div>
+                           </article>
+                        </div>
+                        <div class="swiper-slide">
+                           <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+                              <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                                 <h4 class="pbmit-hide">client 5</h4>
+                                 <div class="pbmit-client-hover-img">
+                                    <img src="images/client/client-logo-05.png" class="img-fluid" alt="" />
+                                 </div>
+                                 <div class="pbmit-featured-wrapper">
+                                    <img src="images/client/client-white-05.png" class="img-fluid" alt="" />
+                                 </div>
+                              </div>
+                           </article>
+                        </div>
+                        <div class="swiper-slide">
+                           <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+                              <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                                 <h4 class="pbmit-hide">client 6</h4>
+                                 <div class="pbmit-client-hover-img">
+                                    <img src="images/client/client-logo-06.png" class="img-fluid" alt="" />
+                                 </div>
+                                 <div class="pbmit-featured-wrapper">
+                                    <img src="images/client/client-white-06.png" class="img-fluid" alt="" />
+                                 </div>
+                              </div>
+                           </article>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+<!-- Testimonial End -->
+
+
+
+<!-- Service Points Start -->
+<section >
+   <div class="container">
+      <div class="row">
+         <div class="col-md-7">
+            <img src="images/img-n-08.png" class="img-fluid w-100" alt="" /> 
+         </div>
+         <div class="col-md-5 section-service-points-contant">
+            <div class="pbmit-heading-subheading">
+               <h4 class="pbmit-subtitle">SERVICE POINTS</h4>
+               <h2 class="pbmit-title">2.400 public charging points in your app</h2>
+               <div class="pbmit-heading-desc">Aliquam erat volutpat. Integer malesuada turpis id fringilla suscipit. Maecenas ultrices, orci vitae convallis mattis, quam nulla vehicula felis, eu cursus sem tellus eget elit. Proin lacinia gravida elit, et sollicitudin velit.</div>
+            </div>
+            <div  class="row g-2 ">
+               <div class="col-lg-12 col-xl-4">
+                  <img src="images/apple-stroe.png" class="img-fluid" alt="" />
+               </div>
+               <div class="col-lg-12 col-xl-4">
+                  <img src="images/play-store.png" class="img-fluid" alt="" />
+               </div>
+            </div>
+         </div>                  
+      </div>
+   </div>
+</section>
+<!-- Service Points End -->
+
+<!-- Welcome -->
+<section class="section-lg pb-4">
+   <div class="container">
+      <div class="row g-0">
+         <div class="col-md-6 col-lg-6 col-xl-3">
+            <div class="pbmit-ihbox pbmit-ihbox-style-1">
+               <div class="pbmit-ihbox-box">
+                  <div class="pbmit-ihbox-icon">
+                     <div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
+                        <img src="images/icon/icon-img-01.png" class="img-fluid" alt="EV Charging" />
+                     </div>
+                  </div>
+                  <div class="pbmit-ihbox-contents">
+                     <h2 class="pbmit-element-title">
+                        <a href="project-details.html">
+                           <span> EV Charging</span>
+                        </a>
+                     </h2>
+                     <div class="pbmit-heading-desc">Sed sed condimentum massa. Morbi auctor vestibulum urna, ut interdum.</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-6 col-lg-6 col-xl-3">
+            <div class="pbmit-ihbox pbmit-ihbox-style-1">
+               <div class="pbmit-ihbox-box">
+                  <div class="pbmit-ihbox-icon">
+                     <div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
+                        <img src="images/icon/icon-img-02.png" class="img-fluid" alt="Our Network " />
+                     </div>
+                  </div>
+                  <div class="pbmit-ihbox-contents">
+                     <h2 class="pbmit-element-title">
+                        <a href="project-details.html">
+                           <span>Our Network </span>
+                        </a>
+                     </h2>
+                     <div class="pbmit-heading-desc">Sed sed condimentum massa. Morbi auctor vestibulum urna, ut interdum.</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-6 col-lg-6 col-xl-3">
+            <div class="pbmit-ihbox pbmit-ihbox-style-1">
+               <div class="pbmit-ihbox-box">
+                  <div class="pbmit-ihbox-icon">
+                     <div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
+                        <img src="images/icon/icon-img-03.png" class="img-fluid" alt="Charge Points" />
+                     </div>
+                  </div>
+                  <div class="pbmit-ihbox-contents">
+                     <h2 class="pbmit-element-title">
+                        <a href="project-details.html">
+                           <span>Charge Points</span>
+                        </a>
+                     </h2>
+                     <div class="pbmit-heading-desc">Sed sed condimentum massa. Morbi auctor vestibulum urna, ut interdum.</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-6 col-lg-6 col-xl-3">
+            <div class="pbmit-ihbox pbmit-ihbox-style-1">
+               <div class="pbmit-ihbox-box">
+                  <div class="pbmit-ihbox-icon">
+                     <div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
+                        <img src="images/icon/icon-img-04.png" class="img-fluid" alt="Electric Driving" />
+                     </div>
+                  </div>
+                  <div class="pbmit-ihbox-contents">
+                     <h2 class="pbmit-element-title">
+                        <a href="project-details.html">
+                           <span>Electric Driving</span>
+                        </a>
+                     </h2>
+                     <div class="pbmit-heading-desc">Sed sed condimentum massa. Morbi auctor vestibulum urna, ut interdum.</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section> 
+<div class="container">
+   <div class="text-center section-text-style">
+      <div class="pbmit-text-style-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+         <a class="text-btn" href="contact-us.html">Accept</a>
+      </div>
+   </div>
+</div>
+<!-- Welcome end -->  
+
+
+<!-- Service Start -->
+<section class="pbmit-bg-color-light section-lg home1-service-section">
+   <div class="container">
+      <div class="pbmit-heading-subheading center-align text-center">
+         <h4 class="pbmit-subtitle">OUR SERVICES</h4>
+         <h2 class="pbmit-title">We are best service Provider for the electric vehicle</h2>
+      </div>
+      <div class="col-12">
+         <div class="swiper-slider" data-autoplay="false" data-dots="true" data-arrows="false" data-columns="3" data-margin="30" data-effect="slide">
+            <div class="swiper-wrapper">
+               <div class="swiper-slide">
+                  <!-- Slide1 -->
+                  <article class="pbmit-service-style-1">
+                     <div class="pbminfotech-post-item">
+                        <div class="pbmit-service-img-wrapper">
+                           <div class="pbmit-featured-wrapper">
+                              <img src="images/services/service-01.jpg" class="img-fluid" alt="" />
+                           </div>
+                           <div class="pbminfotechi-box-overlay"></div>
+                        </div>
+                        <div class="pbminfotech-box-content">
+                           <div class="pbminfotech-box-content-inner">
+                              <h3 class="pbmit-service-title"><a href="service-details.html">Home Charging</a></h3>
+                              <div class="pbmit-service-content">
+                                 <p>There are many variations of pass ages of Lorem Ipsum available but the majority.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </article>
+               </div>
+               <div class="swiper-slide">
+                  <!-- Slide2 -->
+                  <article class="pbmit-service-style-1">
+                     <div class="pbminfotech-post-item">
+                        <div class="pbmit-service-img-wrapper">
+                           <div class="pbmit-featured-wrapper">
+                              <img src="images/services/service-02.jpg" class="img-fluid" alt="" />
+                           </div>
+                           <div class="pbminfotechi-box-overlay"></div>
+                        </div>
+                        <div class="pbminfotech-box-content">
+                           <div class="pbminfotech-box-content-inner">
+                              <h3 class="pbmit-service-title"><a href="service-details.html">Public Stations</a></h3>
+                              <div class="pbmit-service-content">
+                                 <p>There are many variations of pass ages of Lorem Ipsum available but the majority.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </article>
+               </div>
+               <div class="swiper-slide">
+                  <!-- Slide3 -->
+                  <article class="pbmit-service-style-1">
+                     <div class="pbminfotech-post-item">
+                        <div class="pbmit-service-img-wrapper">
+                           <div class="pbmit-featured-wrapper">
+                              <img src="images/services/service-03.jpg" class="img-fluid" alt="" />
+                           </div>
+                           <div class="pbminfotechi-box-overlay"></div>
+                        </div>
+                        <div class="pbminfotech-box-content">
+                           <div class="pbminfotech-box-content-inner">
+                              <h3 class="pbmit-service-title"><a href="service-details.html">Commercial Systems</a></h3>
+                              <div class="pbmit-service-content">
+                                 <p>There are many variations of pass ages of Lorem Ipsum available but the majority.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </article>
+               </div>
+               
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Service End --> 
+
+<!-- Team Start -->
+<section class="section-lg">
+   <div class="container">
+      <div class="pbmit-heading-subheading text-center">
+         <h4 class="pbmit-subtitle">OUR TEAM MEMBER</h4>
+         <h2 class="pbmit-title">Meet Our Highly Skilled Experts</h2>
+      </div>
+      <div class="row">
+         <div class=" col-md-6 col-lg-3">
+            <article class="pbmit-team-style-2">
+               <div class="pbminfotech-post-item">
+                  <div class="pbminfotech-team-image-box">
+                     <div class="pbminfotech-box-social-links">
+                        <ul class="pbmit-social-links pbmit-team-social-links">
+                           <li class="pbmit-social-li pbmit-social-facebook">
+                              <a href="#" title="Facebook" target="_blank">
+                                 <span><i class="pbmit-base-icon-facebook-squared"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-twitter">
+                              <a href="#" title="Twitter" target="_blank">
+                                 <span><i class="pbmit-base-icon-twitter"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-linkedin">
+                              <a href="#" title="LinkedIn" target="_blank">
+                                 <span><i class="pbmit-base-icon-linkedin-squared"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-flickr">
+                              <a href="#" title="Flickr" target="_blank">
+                                 <span><i class="pbmit-base-icon-flickr"></i></span>
+                              </a>
+                           </li>
+                        </ul>
+                     </div>
+                     <div class="pbmit-featured-wrapper">
+                        <img src="images/team/team-01.jpg" class="img-fluid" alt="">
+                     </div>
+                  </div>
+                  <div class="pbminfotech-box-content">
+                     <h3 class="pbmit-team-title">
+                        <a href="team-member-detail.html">Justin Beckham</a>
+                     </h3>
+                     <div class="pbminfotech-box-team-position-wrap">
+                        <div class="pbminfotech-box-team-position">Engineer</div>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="col-md-6 col-lg-3">
+            <article class="pbmit-team-style-2">
+               <div class="pbminfotech-post-item">
+                  <div class="pbminfotech-team-image-box">
+                     <div class="pbminfotech-box-social-links">
+                        <ul class="pbmit-social-links pbmit-team-social-links">
+                           <li class="pbmit-social-li pbmit-social-facebook">
+                              <a href="#" title="Facebook" target="_blank">
+                                 <span><i class="pbmit-base-icon-facebook-squared"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-twitter">
+                              <a href="#" title="Twitter" target="_blank">
+                                 <span><i class="pbmit-base-icon-twitter"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-linkedin">
+                              <a href="#" title="LinkedIn" target="_blank">
+                                 <span><i class="pbmit-base-icon-linkedin-squared"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-flickr">
+                              <a href="#" title="Flickr" target="_blank">
+                                 <span><i class="pbmit-base-icon-flickr"></i></span>
+                              </a>
+                           </li>
+                        </ul>
+                     </div>
+                     <div class="pbmit-featured-wrapper">
+                        <img src="images/team/team-02.jpg" class="img-fluid" alt="">
+                     </div>
+                  </div>
+                  <div class="pbminfotech-box-content">
+                     <h3 class="pbmit-team-title">
+                        <a href="team-member-detail.html">Smith Johnson</a>
+                     </h3>
+                     <div class="pbminfotech-box-team-position-wrap">
+                        <div class="pbminfotech-box-team-position">Manager</div>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class=" col-md-6 col-lg-3">
+            <article class="pbmit-team-style-2">
+               <div class="pbminfotech-post-item">
+                  <div class="pbminfotech-team-image-box">
+                     <div class="pbminfotech-box-social-links">
+                        <ul class="pbmit-social-links pbmit-team-social-links">
+                           <li class="pbmit-social-li pbmit-social-facebook">
+                              <a href="#" title="Facebook" target="_blank">
+                                 <span><i class="pbmit-base-icon-facebook-squared"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-twitter">
+                              <a href="#" title="Twitter" target="_blank">
+                                 <span><i class="pbmit-base-icon-twitter"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-linkedin">
+                              <a href="#" title="LinkedIn" target="_blank">
+                                 <span><i class="pbmit-base-icon-linkedin-squared"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-flickr">
+                              <a href="#" title="Flickr" target="_blank">
+                                 <span><i class="pbmit-base-icon-flickr"></i></span>
+                              </a>
+                           </li>
+                        </ul>
+                     </div>
+                     <div class="pbmit-featured-wrapper">
+                        <img src="images/team/team-03.jpg" class="img-fluid" alt="">
+                     </div>
+                  </div>
+                  <div class="pbminfotech-box-content">
+                     <h3 class="pbmit-team-title">
+                        <a href="team-member-detail.html">Jennifer Winds</a>
+                     </h3>
+                     <div class="pbminfotech-box-team-position-wrap">
+                        <div class="pbminfotech-box-team-position">Engineer</div>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="col-md-6 col-lg-3">
+            <article class="pbmit-team-style-2">
+               <div class="pbminfotech-post-item">
+                  <div class="pbminfotech-team-image-box">
+                     <div class="pbminfotech-box-social-links">
+                        <ul class="pbmit-social-links pbmit-team-social-links">
+                           <li class="pbmit-social-li pbmit-social-facebook">
+                              <a href="#" title="Facebook" target="_blank">
+                                 <span><i class="pbmit-base-icon-facebook-squared"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-twitter">
+                              <a href="#" title="Twitter" target="_blank">
+                                 <span><i class="pbmit-base-icon-twitter"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-linkedin">
+                              <a href="#" title="LinkedIn" target="_blank">
+                                 <span><i class="pbmit-base-icon-linkedin-squared"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-flickr">
+                              <a href="#" title="Flickr" target="_blank">
+                                 <span><i class="pbmit-base-icon-flickr"></i></span>
+                              </a>
+                           </li>
+                        </ul>
+                     </div>
+                     <div class="pbmit-featured-wrapper">
+                        <img src="images/team/team-04.jpg" class="img-fluid" alt="">
+                     </div>
+                  </div>
+                  <div class="pbminfotech-box-content">
+                     <h3 class="pbmit-team-title">
+                        <a href="team-member-detail.html">Edward Willey</a>
+                     </h3>
+                     <div class="pbminfotech-box-team-position-wrap">
+                        <div class="pbminfotech-box-team-position">Manager</div>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Team End -->
+
+<!-- Pricing Start -->
+<section class="pbmit-bg-color-light section-lg">
+   <div class="container">
+      <div class="pbmit-heading-subheading center-align text-center">
+         <h4 class="pbmit-subtitle">CHOOSE YOUR BEST PLAN</h4>
+         <h2 class="pbmit-title">Electric vehicle 2.400 public charging points</h2>
+      </div>
+      <div class="row">
+         <div class="pbmit-ptable-col col-lg-4">
+            <div class="pbmit-pricing-table-box">
+               <div class="pbmit-icon-wrap">
+                  <div class="pbmit-ptable-icon">
+                     <div class="pbmit-ptable-icon-wrapper">
+                        <i class="pbmit-grevo-icon pbmit-grevo-icon-electric-station-1"></i>
+                     </div>
+                  </div>
+               </div>
+               <div class="pbmit-head-wrap">
+                  <h3 class="pbminfotech-ptable-heading">Home charging</h3>
+                  <div class="pbminfotech-sep"></div>
+               </div>
+               <div class="pbminfotech-ptable-price-w">
+                  <div class="pbminfotech-ptable-price">240</div>
+                  <div class="pbminfotech-ptable-symbol">$</div>
+                  <div class="pbminfotech-ptable-frequency">mo</div>
+               </div>
+               <div class="pbmit-ptable-inner">
+                  <div class="pbmit-ptable-lines-w">
+                     <div class="pbmit-ptable-line">
+                        <i class="fa fa-check-circle"></i> Charging station for home
+                     </div>
+                     <div class="pbmit-ptable-line">
+                        <i class="fa fa-check-circle"></i> Charge point setting
+                     </div>
+                     <div class="pbmit-ptable-line">
+                        <i class="fa fa-check-circle"></i> 1 year hardware warranty
+                     </div>
+                  </div>
+                  <div class="pbmit-ptable-btn">
+                     <a href="#"><span>View More</span></a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="pbmit-ptable-col col-lg-4">
+            <div class="pbmit-pricing-table-featured-col pbmit-ptable-col">
+               <div class="pbmit-pricing-table-box">
+                  <div class="pbmit-ptablebox-featured-w">Featured</div>
+                  <div class="pbmit-icon-wrap">
+                     <div class="pbmit-ptable-icon">
+                        <div class="pbmit-ptable-icon-wrapper">
+                           <i class="pbmit-grevo-icon pbmit-grevo-icon-station"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="pbmit-head-wrap">
+                     <h3 class="pbminfotech-ptable-heading">Public Station</h3>
+                     <div class="pbminfotech-sep"></div>
+                  </div>
+                  <div class="pbminfotech-ptable-price-w">
+                     <div class="pbminfotech-ptable-price">200</div>
+                     <div class="pbminfotech-ptable-symbol">$</div>
+                     <div class="pbminfotech-ptable-frequency">mo</div>
+                  </div>
+                  <div class="pbmit-ptable-inner">
+                     <div class="pbmit-ptable-lines-w">
+                        <div class="pbmit-ptable-line">
+                           <i class="fa fa-check-circle"></i> Charging station for home
+                        </div>
+                        <div class="pbmit-ptable-line">
+                           <i class="fa fa-check-circle"></i> Charge point setting
+                        </div>
+                        <div class="pbmit-ptable-line">
+                           <i class="fa fa-check-circle"></i> 1 year hardware warranty
+                        </div>
+                     </div>
+                     <div class="pbmit-ptable-btn">
+                        <a href="#"><span>View More</span></a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="pbmit-ptable-col col-lg-4">
+            <div class="pbmit-pricing-table-box">
+               <div class="pbmit-icon-wrap">
+                  <div class="pbmit-ptable-icon">
+                     <div class="pbmit-ptable-icon-wrapper">
+                        <i class="pbmit-grevo-icon pbmit-grevo-icon-car-parking"></i>
+                     </div>
+                  </div>
+               </div>
+               <div class="pbmit-head-wrap">
+                  <h3 class="pbminfotech-ptable-heading">Commercial Points</h3>
+                  <div class="pbminfotech-sep"></div>
+               </div>
+               <div class="pbminfotech-ptable-price-w">
+                  <div class="pbminfotech-ptable-price">300</div>
+                  <div class="pbminfotech-ptable-symbol">$</div>
+                  <div class="pbminfotech-ptable-frequency">mo</div>
+               </div>
+               <div class="pbmit-ptable-inner">
+                  <div class="pbmit-ptable-lines-w">
+                     <div class="pbmit-ptable-line">
+                        <i class="fa fa-check-circle"></i> Charging station for home
+                     </div>
+                     <div class="pbmit-ptable-line">
+                        <i class="fa fa-check-circle"></i> Charge point setting
+                     </div>
+                     <div class="pbmit-ptable-line">
+                        <i class="fa fa-check-circle"></i> 1 year hardware warranty
+                     </div>
+                  </div>
+                  <div class="pbmit-ptable-btn">
+                     <a href="#"><span>View More</span></a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Pricing End --> 
+
+<!-- Testimonial Start -->
+<section  class="section-lg home-2-section-testimonail-bg">
+<div class="container">
+   <div class="pbmit-heading-subheading center-align text-center">
+      <h4 class="pbmit-subtitle">TESTIMONIALS</h4>
+      <h2 class="pbmit-title">What Client's Say about</h2>
+   </div>
+   <div class="swiper-slider" data-autoplay="false" data-dots="false" data-arrows="true" data-columns="1" data-margin="30" data-effect="slide">
+      <div class="swiper-wrapper">
+         <div class="swiper-slide">
+            <article class="pbmit-testimonial-style-2 pbmit-odd pbmit-col-odd">
+               <div class="pbminfotech-post-item">
+                  <div class="pbminfotech-box-content">
+                     <div class="pbminfotech-testimonial-wrapper">
+                        <div class="pbminfotech-box-desc">
+                           <blockquote class="pbminfotech-testimonial-text">
+                              <p>“After being forced to move twice within five years, our customers had a hard time finding us and our sales plummeted. The Trydus Co. not only revitalized our brand, but saved our nearly 100-year-old family business”</p>
+                           </blockquote>
+                        </div>
+                        <div class="pbminfotech-box-star-ratings">
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                        </div>
+                     </div>
+                     <div class="pbminfotech-box-img d-flex justify-content-center align-items-center">
+                        <div class="pbmit-featured-wrapper">
+                           <img src="images/testimonial/testimonial-01.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <div class="pbminfotech-box-author">
+                           <h3 class="pbminfotech-box-title">Rhett Kinedy</h3>
+                           <div class="pbminfotech-testimonial-detail">Head of Marketing</div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="swiper-slide">
+            <article class="pbmit-testimonial-style-2 pbmit-odd pbmit-col-odd">
+               <div class="pbminfotech-post-item">
+                  <div class="pbminfotech-box-content">
+                     <div class="pbminfotech-testimonial-wrapper">
+                        <div class="pbminfotech-box-desc">
+                           <blockquote class="pbminfotech-testimonial-text">
+                              <p>“After being forced to move twice within five years, our customers had a hard time finding us and our sales plummeted. The Trydus Co. not only revitalized our brand, but saved our nearly 100-year-old family business”</p>
+                           </blockquote>
+                        </div>
+                        <div class="pbminfotech-box-star-ratings">
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star "></i>
+                        </div>
+                     </div>
+                     <div class="pbminfotech-box-img d-flex justify-content-center align-items-center">
+                        <div class="pbmit-featured-wrapper">
+                           <img src="images/testimonial/testimonial-02.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <div class="pbminfotech-box-author">
+                           <h3 class="pbminfotech-box-title">Richard Powers</h3>
+                           <div class="pbminfotech-testimonial-detail">CEO Co-Founder</div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="swiper-slide">
+            <article class="pbmit-testimonial-style-2 pbmit-odd pbmit-col-odd">
+               <div class="pbminfotech-post-item">
+                  <div class="pbminfotech-box-content">
+                     <div class="pbminfotech-testimonial-wrapper">
+                        <div class="pbminfotech-box-desc">
+                           <blockquote class="pbminfotech-testimonial-text">
+                              <p>“After being forced to move twice within five years, our customers had a hard time finding us and our sales plummeted. The Trydus Co. not only revitalized our brand, but saved our nearly 100-year-old family business”</p>
+                           </blockquote>
+                        </div>
+                        <div class="pbminfotech-box-star-ratings">
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                        </div>
+                     </div>
+                     <div class="pbminfotech-box-img d-flex justify-content-center align-items-center">
+                        <div class="pbmit-featured-wrapper">
+                           <img src="images/testimonial/testimonial-03.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <div class="pbminfotech-box-author">
+                           <h3 class="pbminfotech-box-title">Maria Rusconi</h3>
+                           <div class="pbminfotech-testimonial-detail">Managing Director</div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="swiper-slide">
+            <article class="pbmit-testimonial-style-2 pbmit-odd pbmit-col-odd">
+               <div class="pbminfotech-post-item">
+                  <div class="pbminfotech-box-content">
+                     <div class="pbminfotech-testimonial-wrapper">
+                        <div class="pbminfotech-box-desc">
+                           <blockquote class="pbminfotech-testimonial-text">
+                              <p>“I appreciate your hospital really good environment and excellent patient care. You are continuously handle patient treatment wonderfully. Thanks for your great service. Please enjoy the chocolates.”</p>
+                           </blockquote>
+                        </div>
+                        <div class="pbminfotech-box-star-ratings">
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                        </div>
+                     </div>
+                     <div class="pbminfotech-box-img d-flex justify-content-center align-items-center">
+                        <div class="pbmit-featured-wrapper">
+                           <img src="images/testimonial/testimonial-04.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <div class="pbminfotech-box-author">
+                           <h3 class="pbminfotech-box-title">Striven Porter</h3>
+                           <div class="pbminfotech-testimonial-detail">Financial Adviser</div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="swiper-slide">
+            <article class="pbmit-testimonial-style-2 pbmit-odd pbmit-col-odd">
+               <div class="pbminfotech-post-item">
+                  <div class="pbminfotech-box-content">
+                     <div class="pbminfotech-testimonial-wrapper">
+                        <div class="pbminfotech-box-desc">
+                           <blockquote class="pbminfotech-testimonial-text">
+                              <p>“I appreciate your hospital really good environment and excellent patient care. You are continuously handle patient treatment wonderfully. Thanks for your great service. Please enjoy the chocolates.”</p>
+                           </blockquote>
+                        </div>
+                        <div class="pbminfotech-box-star-ratings">
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                        </div>
+                     </div>
+                     <div class="pbminfotech-box-img d-flex justify-content-center align-items-center">
+                        <div class="pbmit-featured-wrapper">
+                           <img src="images/testimonial/testimonial-05.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <div class="pbminfotech-box-author">
+                           <h3 class="pbminfotech-box-title">Elena Blackwell</h3>
+                           <div class="pbminfotech-testimonial-detail">CEO Co-Founder</div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="swiper-slide">
+            <article class="pbmit-testimonial-style-2 pbmit-odd pbmit-col-odd">
+               <div class="pbminfotech-post-item">
+                  <div class="pbminfotech-box-content">
+                     <div class="pbminfotech-testimonial-wrapper">
+                        <div class="pbminfotech-box-desc">
+                           <blockquote class="pbminfotech-testimonial-text">
+                              <p>“I appreciate your hospital really good environment and excellent patient care. You are continuously handle patient treatment wonderfully. Thanks for your great service. Please enjoy the chocolates.”</p>
+                           </blockquote>
+                        </div>
+                        <div class="pbminfotech-box-star-ratings">
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                           <i class="pbmit-base-icon-star pbmit-active"></i>
+                        </div>
+                     </div>
+                     <div class="pbminfotech-box-img d-flex justify-content-center align-items-center">
+                        <div class="pbmit-featured-wrapper">
+                           <img src="images/testimonial/testimonial-06.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <div class="pbminfotech-box-author">
+                           <h3 class="pbminfotech-box-title">Alex Margaret</h3>
+                           <div class="pbminfotech-testimonial-detail">Managing Director</div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+      </div>
+   </div>
+</div>
+</section>
+<!-- Testimonial End -->
+
+<!-- Client- Start -->
+<section class="">
+<div class="container">
+   <div class="swiper-slider" data-autoplay="false" data-dots="false" data-arrows="false" data-columns="6" data-margin="30" data-effect="slide">
+      <div class="swiper-wrapper">
+         <div class="swiper-slide">
+            <article class="pbmit-client-style-1 ">
+               <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                  <h4 class="pbmit-hide">client 1</h4>
+                  <div class="pbmit-client-hover-img">
+                     <img src="images/client/client-logo-01.png" class="img-fluid" alt="" />
+                  </div>
+                  <div class="pbmit-featured-wrapper">
+                     <img src="images/client/client-dark-01.png" class="img-fluid" alt="" />
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="swiper-slide">
+            <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+               <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                  <h4 class="pbmit-hide">client 2</h4>
+                  <div class="pbmit-client-hover-img">
+                     <img src="images/client/client-logo-02.png" class="img-fluid" alt="" />
+                  </div>
+                  <div class="pbmit-featured-wrapper">
+                     <img src="images/client/client-dark-02.png" class="img-fluid" alt="" />
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="swiper-slide">
+            <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+               <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                  <h4 class="pbmit-hide">client 3</h4>
+                  <div class="pbmit-client-hover-img">
+                     <img src="images/client/client-logo-03.png" class="img-fluid" alt="" />
+                  </div>
+                  <div class="pbmit-featured-wrapper">
+                     <img src="images/client/client-dark-03.png" class="img-fluid" alt="" />
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="swiper-slide">
+            <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+               <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                  <h4 class="pbmit-hide">client 4</h4>
+                  <div class="pbmit-client-hover-img">
+                     <img src="images/client/client-logo-04.png" class="img-fluid" alt="" />
+                  </div>
+                  <div class="pbmit-featured-wrapper">
+                     <img src="images/client/client-dark-04.png" class="img-fluid" alt="" />
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="swiper-slide">
+            <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+               <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                  <h4 class="pbmit-hide">client 5</h4>
+                  <div class="pbmit-client-hover-img">
+                     <img src="images/client/client-logo-05.png" class="img-fluid" alt="" />
+                  </div>
+                  <div class="pbmit-featured-wrapper">
+                     <img src="images/client/client-dark-05.png" class="img-fluid" alt="" />
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="swiper-slide">
+            <article class="pbmit-ele pbmit-ele-client pbmit-client-style-1 white">
+               <div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+                  <h4 class="pbmit-hide">client 6</h4>
+                  <div class="pbmit-client-hover-img">
+                     <img src="images/client/client-logo-06.png" class="img-fluid" alt="" />
+                  </div>
+                  <div class="pbmit-featured-wrapper">
+                     <img src="images/client/client-dark-06.png" class="img-fluid" alt="" />
+                  </div>
+               </div>
+            </article>
+         </div>
+      </div>
+   </div>
+</div>
+</section>
+<!-- Client- End -->
+
+
+
+</div>
+<!-- Page Content End -->
+
+#73a0d6
+Image of Upside for product details page
+<!-- Title Bar -->
+<div class="pbmit-title-bar-wrapper-auto">
+   <div class="container">
+      <div class="pbmit-title-bar-content">
+         <div class="pbmit-title-bar-content-inner">
+            <div class="pbmit-tbar">
+               <div class="pbmit-tbar-inner container">
+                  <h1 class="pbmit-tbar-title">EP 650</h1>
+               </div>
+            </div>
+            <div class="pbmit-breadcrumb">
+               <div class="pbmit-breadcrumb-inner">
+                  <span><a href="#" class="home"><span>Excess Power Battery</span></a></span>
+                  <span class="sep"><i class="pbmit-base-icon-angle-double-right"></i></span>
+                  <span><span class="post-root post post-post current-item">EP 650</span></span>
+               </div>
+            </div>
+         </div>
+      </div> 
+   </div> 
+</div>
+<!-- Title Bar End-->
+
+<!-- FAQ --> 
+<section class="section-lg">
+   <div class="container">
+      <div class="row justify-content-center">
+         <div class="col-lg-8">
+            <div class="pbmit-heading-subheading text-center">
+               <h4 class="pbmit-subtitle">Common Queries</h4>
+               <h2 class="pbmit-title">Frequently Asked Questions</h2>
+               <div class="pbmit-heading-desc m-3">You will find answers to about our medical technologies and medical specialists service and more. Please feel free to contact us if you don't get your question's answer in below.</div>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-12">
+            <div class="accordion accordion-flush" id="accordionFlushExample1">
+               <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingOne1">
+                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne1" aria-expanded="false" aria-controls="flush-collapseOne1">
+                        How far can an electric car go on one charge?
+                     </button>
+                  </h2>
+                  <div id="flush-collapseOne1" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne1" data-bs-parent="#accordionFlushExample1">
+                     <div class="accordion-body">Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ullamco. The Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</div>
+                  </div>
+               </div>
+               <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingTwo2">
+                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo2" aria-expanded="false" aria-controls="flush-collapseTwo2">
+                        Is it cheaper to charge an electric car at home?
+                     </button>
+                  </h2>
+                  <div id="flush-collapseTwo2" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo2" data-bs-parent="#accordionFlushExample1">
+                     <div class="accordion-body">Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ullamco. The Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</div>
+                  </div>
+               </div>
+               <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingThree3">
+                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree3" aria-expanded="false" aria-controls="flush-collapseThree3">
+                        How much does it cost to fully charge an electric car?
+                     </button>
+                  </h2>
+                  <div id="flush-collapseThree3" class="accordion-collapse collapse" aria-labelledby="flush-headingThree3" data-bs-parent="#accordionFlushExample1">
+                     <div class="accordion-body">Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ullamco. The Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</div>
+                  </div>
+               </div>
+               <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingFour4">
+                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour4" aria-expanded="false" aria-controls="flush-collapseFour4">
+                        How do you calculate the power consumption of an electric car?
+                     </button>
+                  </h2>
+                  <div id="flush-collapseFour4" class="accordion-collapse collapse show" aria-labelledby="flush-headingFour4" data-bs-parent="#accordionFlushExample1">
+                     <div class="accordion-body">Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ullamco. The Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</div>
+                  </div>
+               </div>
+               <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingFive5">
+                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive5" aria-expanded="false" aria-controls="flush-collapseFive5">
+                        How much does it cost to charge an electric car at a public charging station?
+                     </button>
+                  </h2>
+                  <div id="flush-collapseFive5" class="accordion-collapse collapse" aria-labelledby="flush-headingFive5" data-bs-parent="#accordionFlushExample1">
+                     <div class="accordion-body">Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ullamco. The Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div> 
+   </div>
+</section>
+<!-- FAQ end --> 
+
+<!--History Start-->
+<section class="pbmit-bg-color-light section-lg">
+   <div class="container">
+      <div class="pbmit-heading-subheading text-center mb-5">
+            <h4 class="pbmit-subtitle">OUR HISTORY</h4>
+            <h2 class="pbmit-title">How We Started Excess Power Batteries Company</h2>
+      </div>
+      <div class="pbmit-timeline">
+         <div class="pbmit-ele-header-area">
+            <div class="pbmit-heading-subheading left-align "></div>
+         </div>
+         <div class="pbmit-first-timeline"></div>
+         <div class="pbmit-timeline-post-items">
+            <div class="pbmit-timeline-inner">
+               <div class=" col-sm-12 pbmit-ourhistory-type2">
+                  <div class="row pbmit-ourhistory-row">
+                     <div class="col-md-6 col-sm-12 col-xs-6 pbmit-ourhistory-right">
+                        <span class="label">2018</span>
+                        <div class="content">
+                           
+                           <div class="simple-text">
+                              <p>Carrying a thought of producing some product and watching it is happening gives a great moment of satisfaction and happiness. </p>
+                              <p>We experienced this moment on <span class="pbmit-globalcolor">20th December 2018</span>, when we started manufacturing batteries in our production plant. </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-6 pbmit-ourhistory-left">
+                        <span class="pbmit-timeline-image">
+                           <img src="images/history/history-01.jpg" alt="We started  make electric vehicle" />
+                        </span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="pbmit-timeline-inner">
+               <div class=" col-sm-12 pbmit-ourhistory-type2">
+                  <div class="row pbmit-ourhistory-row">
+                     <div class="col-md-6 col-sm-12 col-xs-6 pbmit-ourhistory-right">
+                        <span class="label">2019</span>
+                        <div class="content">
+                           
+                           <div class="simple-text">
+                              <p>We achieved a position of recognition when we completed an order of providing 550+ batteries to DCC Bank, for Beed branch in <span class="pbmit-globalcolor">June/July-2019</span>.</p>
+                              <p>This moment was a great motivation for us to enter in retail market and thus we raised curtains of our first retail outlet at Mondha Corner, Beed in <span class="pbmit-globalcolor">August-2019</span>.</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-6 pbmit-ourhistory-left">
+                        <span class="pbmit-timeline-image">
+                           <img src="images/history/history-02.jpg" alt="We started  make electric vehicle" />
+                        </span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="pbmit-timeline-inner">
+               <div class=" col-sm-12 pbmit-ourhistory-type2">
+                  <div class="row pbmit-ourhistory-row">
+                     <div class="col-md-6 col-sm-12 col-xs-6 pbmit-ourhistory-right">
+                        <span class="label">2020</span>
+                        <div class="content">
+                           <div class="simple-text">
+                              <p>Now, the time has come to move forward in our manufacturing department. So, in <span class="pbmit-globalcolor">September-2020</span> we started producing <span class="pbmit-globalcolor">'Distilled Water'</span> which is necessary for working and charging of lead acid batteries.</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-6 pbmit-ourhistory-left">
+                        <span class="pbmit-timeline-image">
+                           <img src="images/history/history-03.jpg" alt="We started  make electric vehicle" />
+                        </span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="pbmit-timeline-inner">
+               <div class=" col-sm-12 pbmit-ourhistory-type2">
+                  <div class="row pbmit-ourhistory-row">
+                     <div class="col-md-6 col-sm-12 col-xs-6 pbmit-ourhistory-right">
+                        <span class="label">2022</span>
+                        <div class="content">
+                           <div class="simple-text">
+                              <p>Wise people say, never stop researching, learning and developing. We went on with our research and decided to produce a few new models at Excess Power Batteries. In <span class="pbmit-globalcolor">February-2022</span>, we introduced our 6 new models of all ranges of batteries.</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-6 pbmit-ourhistory-left">
+                        <span class="pbmit-timeline-image">
+                           <img src="images/history/history-04.jpg" alt="We started  make electric vehicle" />
+                        </span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="pbmit-last-timeline"></div>
+      </div>
+   </div>
+</section>
+<!--History Ends-->
+
+
+<!-- Blog Start -->
+<section class="section-lgx">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-md-6 pbmit-heading-subheading text-left">
+            <h4 class="pbmit-subtitle">FRESH NEWS</h4>
+            <h2 class="pbmit-title">Our Blogs</h2>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-md-14">
+            <article class="pbmit-blog-style-1">
+               <div class="post-item">
+                  <div class="pbmit-featured-container">
+                     <div class="pbmit-featured-wrapper">
+                        <img src="images/comingsoon.jpg" class="img-fluid" alt="" />
+                     </div>
+                  </div>
+                  <div class="pbminfotech-box-content">
+                     <h3 class="pbmit-post-title">
+                        <a href="blog-details.html">Energy Star Certified Electric Vehicle Chargers</a>
+                     </h3>
+                     <div class="pbmit-service-btn"> 
+                        <a class="btn-arrow" href="blog-details.html">Read More</a>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="col-md-14">
+            <article class="pbmit-blog-style-1">
+               <div class="post-item">
+                  <div class="pbmit-featured-container">
+                     <div class="pbmit-featured-wrapper">
+                        <img src="images/comingsoon.jpg" class="img-fluid" alt="" />
+                     </div>
+                  </div>
+                  <div class="pbminfotech-box-content">
+                     <div class="pbmit-meta-container">
+                     </div>
+                     <h3 class="pbmit-post-title">
+                        <a href="blog-details.html">Charging Solution for Electric Car & Hybrid Car</a>
+                     </h3>
+                  </div>
+                  <div class="pbmit-service-btn"> 
+                     <a class="btn-arrow" href="blog-details.html">Read More</a>
+                  </div>
+               </div>
+            </article>
+         </div>
+         <div class="col-md-14">
+            <article class="pbmit-blog-style-1 last">
+               <div class="post-item">
+                  <div class="pbmit-featured-container">
+                     <div class="pbmit-featured-wrapper">
+                        <img src="images/comingsoon.jpg" class="img-fluid" alt="" />
+                     </div>
+                  </div>
+                  <div class="pbminfotech-box-content">
+                     <div class="pbmit-meta-container">
+                     </div>
+                     <h3 class="pbmit-post-title">
+                        <a href="blog-details.html">Home Charging Station for a Electric Vehicles</a>
+                     </h3>
+                     <div class="pbmit-service-btn"> 
+                        <a class="btn-arrow" href="blog-details.html">Read More</a>
+                     </div>
+                  </div>
+               </div>
+            </article>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Blog End -->
+
+<!--bbb-->>
+
+<section class="section-lgx">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-6 col-sm-12 section-about-contact">
+            <div class="pbmit-heading-subheading">
+               <h2 class="pbmit-title">Batteries Buy Back (BBB) Policy:</h2>
+               <div class="pbmit-heading-desc"><span class="pbmit-globalcolor">'Excess Power Batteries'</span> follow the Battery Buyback Policy (BBB). We buy used batteries for a certain amount. After the recycling process, we reuse some of the materials contained in these used batteries. We believe this small step will help raise awareness of the health and environmental risks of improper disposal of used batteries.</div>
+            </br>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
