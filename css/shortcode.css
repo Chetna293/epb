@@ -2380,6 +2380,7 @@ nav.main-menu.navbar-expand-xl.navbar-light {
 }
 .header-style-2 .pbmit-header-bg {
     margin: 0 45px;
+    background-color: white;
 }
 .header-style-2 .site-branding {
     margin-right: 110px;
@@ -2519,16 +2520,16 @@ nav.main-menu.navbar-expand-xl.navbar-light {
 }
 .header-style-3 .pbmit-header-search-btn a {
     font-size: 22px;
-    color: white;
+    color: #0a6fa7;
 }
 .header-style-3 .site-navigation ul.navigation > li > a:hover {
     color: white;
 }
 .header-style-3 .site-navigation ul.navigation > li > a{
-    color: white;
+    color: #0a6fa7;
 }
 .header-style-3 .main-menu ul > li.dropdown > a:after{
-    color: var(--pbmit-blackish-color);
+    color: #0a6fa7;
 }
 .header-style-3 .header-button .pbmit-btn {
     padding: 22px 40px;
@@ -2555,7 +2556,7 @@ nav.main-menu.navbar-expand-xl.navbar-light {
     margin-right: 30px;
 }
 .header-style-3 .site-navigation ul.navigation > li.active > a {
-    color: white;
+    color: #0a6fa7    ;
 }
 .header-style-3 .main-menu ul > li.dropdown.active > a:after {
     color: black;
@@ -3020,14 +3021,14 @@ input[type="email"]{
     background-size: cover;
     background-attachment: scroll;
 }
-.pbmit-title-bar-wrapper-auto {
+/*.pbmit-title-bar-wrapper-auto {
     background-color: #f6f6f6;
     background-image: url(../images/products/auto.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     background-attachment: scroll;
-}
+}*/
 .pbmit-title-bar-wrapper-car {
     background-color: #f6f6f6;
     background-image: url(../images/products/car.jpg);
@@ -3188,9 +3189,10 @@ input[type="email"]{
     text-transform: none;
     font-weight: 500;
     font-style: normal;
+    width:400px;
 }
 .pbmit-breadcrumb-inner {
-    margin: 0 840px 0 0;
+    
     display: inline-block;
     background-color: #fff;
     border: 2px solid #0a6fa7;

@@ -345,6 +345,7 @@ body {
 		left: 0;
 		top: 76px;
 		background-color: #fff;
+		color:#000;
 		z-index: 99;
 		border-top: 3px solid var(--pbmit-global-color);
 	}
@@ -1317,6 +1318,7 @@ body {
 	.pbmit-testimonial-style-2 .pbminfotech-testimonial-wrapper {
 		margin: 0 50px 30px;
 	}
+
 }
 @media (min-width: 1741px) and (max-width: 1800px){
 	.pbmit-vertical-heading .pbmit-custom-heading .pbmit-test-title {
@@ -1354,3 +1356,13 @@ body {
 	}
 }
 
+@media (min-width:548px) and (max-width: 991px){
+	.pbmit-tbar  {
+		 margin-top:-300px;
+	}
+}
+@media (min-width:665px) and (max-width: 1115px){
+	.pbmit-tbar  {
+		 margin-top:-400px;
+	}
+}
